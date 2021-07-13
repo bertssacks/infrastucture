@@ -1,138 +1,10 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
-
+<html>
 <head>
     <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
     <meta name=ProgId content=Word.Document>
     <meta name=Generator content="Microsoft Word 9">
     <meta name=Originator content="Microsoft Word 9">
-    <link rel=File-List href="./infrastructure_files/filelist.xml">
-    <link rel=Edit-Time-Data href="./infrastructure_files/editdata.mso">
-    <!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]-->
-    <title>Citizens Concerned for the People of Iraq</title>
-    <style>
-    < !--
-
-    /* Style Definitions */
-    p.MsoNormal,
-    li.MsoNormal,
-    div.MsoNormal {
-        mso-style-parent: "";
-        margin: 0in;
-        margin-bottom: .0001pt;
-        mso-pagination: widow-orphan;
-        font-size: 12.0pt;
-        font-family: "Times New Roman";
-        mso-fareast-font-family: "Times New Roman";
-    }
-
-    h2 {
-        margin-right: 0in;
-        mso-margin-top-alt: auto;
-        mso-margin-bottom-alt: auto;
-        margin-left: 0in;
-        mso-pagination: widow-orphan;
-        mso-outline-level: 2;
-        font-size: 18.0pt;
-        font-family: "Times New Roman";
-        font-weight: bold;
-    }
-
-    h3 {
-        margin-right: 0in;
-        mso-margin-top-alt: auto;
-        mso-margin-bottom-alt: auto;
-        margin-left: 0in;
-        mso-pagination: widow-orphan;
-        mso-outline-level: 3;
-        font-size: 13.5pt;
-        font-family: "Times New Roman";
-        font-weight: bold;
-    }
-
-    a:link,
-    span.MsoHyperlink {
-        color: blue;
-        text-decoration: underline;
-        text-underline: single;
-    }
-
-    a:visited,
-    span.MsoHyperlinkFollowed {
-        color: purple;
-        text-decoration: underline;
-        text-underline: single;
-    }
-
-    p {
-        margin-right: 0in;
-        mso-margin-top-alt: auto;
-        mso-margin-bottom-alt: auto;
-        margin-left: 0in;
-        mso-pagination: widow-orphan;
-        font-size: 12.0pt;
-        font-family: "Times New Roman";
-        mso-fareast-font-family: "Times New Roman";
-    }
-
-    pre {
-        margin: 0in;
-        margin-bottom: .0001pt;
-        mso-pagination: widow-orphan;
-        tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-        font-size: 10.0pt;
-        font-family: "Courier New";
-        mso-fareast-font-family: "Courier New";
-    }
-
-    tt {
-        mso-ascii-font-family: "Courier New";
-        mso-fareast-font-family: "Courier New";
-        mso-hansi-font-family: "Courier New";
-        mso-bidi-font-family: "Courier New";
-    }
-
-    span.apple-style-span {
-        mso-style-name: apple-style-span;
-    }
-
-    span.il {
-        mso-style-name: il;
-    }
-
-    span.apple-converted-space {
-        mso-style-name: apple-converted-space;
-    }
-
-    @page Section1 {
-        size: 8.5in 11.0in;
-        margin: 1.0in 1.25in 1.0in 1.25in;
-        mso-header-margin: .5in;
-        mso-footer-margin: .5in;
-        mso-paper-source: 0;
-    }
-
-    div.Section1 {
-        page: Section1;
-    }
-
-    -->
-    </style>
-    <!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><![endif]-->
-    <!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
 </head>
-
 <body bgcolor=white lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
     <div class=Section1>
         <p style='margin-right:.5in;margin-left:.5in'><a name=top></a>&nbsp;<o:p></o:p>
@@ -538,7 +410,7 @@ Links to Rizer and Warden's ASPJ articles added on 12 January 2003.<br>
             <hr size=2 width="100%" align=center>
         </div>
         <p align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><a href="#top">Return to top</a><br>
-            <a href="index.html"><b>CCPI Homepage</b></a></p>
+            
     </div>
 </body>
 
