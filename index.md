@@ -411,7 +411,6 @@ Links to Rizer and Warden's ASPJ articles added on 12 January 2003.<br>
         </div>
         <p align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><a href="#top">Return to top</a><br>
             
-    </div>
-</body>
 
+</body>
 </html>
